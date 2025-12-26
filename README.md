@@ -2,9 +2,9 @@
 
 ### Who I am?
 A Software Engineer based in Coimbatore, India, working on **Identity & Access Management (IAM)** and **cloud-native distributed systems**.  
-Currently building low-latency authorization systems for **connected vehicle platforms** and **cloud services**.
+Currently building **low-latency authorization systems** for connected vehicle platforms and cloud services.
 
-See my portfolio at **https://vigneshaj-portfolio.vercel.app**
+🌐 See my portfolio at: https://vigneshaj-portfolio.vercel.app
 
 ---
 
@@ -18,20 +18,20 @@ See my portfolio at **https://vigneshaj-portfolio.vercel.app**
 
 ### What are my skill sets?
 
-#### 🗄️ Backend:
+#### 🗄️ Backend
 - **Programming:** Go • Python • C • C++ • JavaScript  
 - **Systems:** IAM • RBAC • Policy Engines (AWS Cedar) • Distributed Systems  
 - **Frameworks & APIs:** RESTful APIs • Microservices  
 - **Databases & Caching:** MongoDB • SQL • Redis  
 - **Messaging:** Kafka  
 
-#### ☁️ Cloud & DevOps:
+#### ☁️ Cloud & DevOps
 - **Cloud:** AWS (IAM • EC2 • S3 • VPC)
 - **Containerization:** Docker • Kubernetes
 - **Infrastructure & Automation:** GitHub Actions • CI/CD
 - **Architecture:** Cloud-native • Event-driven systems
 
-#### 🎡 Engineering Practices:
+#### 🎡 Engineering Practices
 - System design & scalability
 - Low-latency, high-throughput services
 - Policy-driven access control
@@ -40,7 +40,19 @@ See my portfolio at **https://vigneshaj-portfolio.vercel.app**
 ---
 
 ### How to reach me?
-- **GitHub:** https://github.com/vigneshAJ1503  
-- **LinkedIn:** https://www.linkedin.com/in/vignesh-a-j-b5a628221/  
-- **Portfolio:** https://vigneshaj-portfolio.vercel.app  
-- **Mail:** vigneshaj403@gmail.com
+
+<a href="https://github.com/vigneshAJ1503">
+  <img src="https://cdn.simpleicons.org/github/181717" width="32" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vignesh-a-j-b5a628221/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" />
+</a>
+&nbsp;&nbsp;
+<a href="https://vigneshaj-portfolio.vercel.app">
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="32" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:vigneshaj403@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" />
+</a>
