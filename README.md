@@ -41,19 +41,9 @@ Currently building **low-latency authorization systems** for connected vehicle p
 
 ### How to reach me?
 
-<a href="https://github.com/vigneshAJ1503">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vignesh-a-j-b5a628221/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32" />
-</a>
-&nbsp;&nbsp;
-<a href="https://vigneshaj-portfolio.vercel.app">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" width="32" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:vigneshaj403@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="32" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-vigneshAJ1503-181717?logo=github)](https://github.com/vigneshAJ1503)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh_A_J-0A66C2?logo=linkedin)](https://www.linkedin.com/in/vignesh-a-j-b5a628221/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-000000?logo=vercel)](https://vigneshaj-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?logo=gmail)](mailto:vigneshaj403@gmail.com)
+
 
