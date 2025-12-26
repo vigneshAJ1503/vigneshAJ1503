@@ -4,7 +4,7 @@
 A Software Engineer based in Coimbatore, India, working on **Identity & Access Management (IAM)** and **cloud-native distributed systems**.  
 Currently building **low-latency authorization systems** for connected vehicle platforms and cloud services.
 
-🌐 See my portfolio at: https://vigneshaj-portfolio.vercel.app
+
 
 ---
 
