@@ -42,17 +42,18 @@ Currently building **low-latency authorization systems** for connected vehicle p
 ### How to reach me?
 
 <a href="https://github.com/vigneshAJ1503">
-  <img src="https://cdn.simpleicons.org/github/181717" width="32" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vignesh-a-j-b5a628221/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32" />
 </a>
 &nbsp;&nbsp;
 <a href="https://vigneshaj-portfolio.vercel.app">
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="32" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" width="32" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:vigneshaj403@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="32" />
 </a>
+
